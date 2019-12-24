@@ -1,0 +1,25 @@
+{
+  "name": "html-import-example",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Example for blog post about require extensions.",
+  "main": "require.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Comandeer/html-import-example.git"
+  },
+  "keywords": [
+    "require"
+  ],
+  "author": "Comandeer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Comandeer/html-import-example/issues"
+  },
+  "homepage": "https://github.com/Comandeer/html-import-example#readme",
+  "dependencies": {
+    "hogan.js": "^3.0.2",
+    "pirates": "^4.0.1"
+  }
+}
