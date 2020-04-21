@@ -1,6 +1,6 @@
 # HTML import example
 
-Example for the [blog post about importing HTML in Node.js](https://blog.comandeer.pl/html-w-node.html).
+Example for the [blog post about importing HTML in Node.js](https://blog.comandeer.pl/html-w-node.html) ([English version](https://ckeditor.com/blog/html-in-node-js/)).
 
 ## Installation
 
